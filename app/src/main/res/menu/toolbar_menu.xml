@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_slytherin"
+        android:title="Slytherin" />
+    <item
+        android:id="@+id/action_ravenclaw"
+        android:title="Ravenclaw" />
+    <item
+        android:id="@+id/action_hufflepuff"
+        android:title="Hufflepuff" />
+    <item
+        android:id="@+id/action_grffindor"
+        android:title="Gryffindor" />
+</menu>
